@@ -1,0 +1,23 @@
+{
+  "name": "main",
+  "version": "0.0.7",
+  "description": "this is my backend for a video streaming service",
+  "keywords": [
+    "backend",
+    "youtube",
+    "video-Streaming"
+  ],
+  "license": "ISC",
+  "author": "Akshit Jain",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "axios": "^1.8.4",
+    "dotenv": "^16.4.7",
+    "express": "^5.1.0",
+    "mongoose": "^8.13.2"
+  }
+}
